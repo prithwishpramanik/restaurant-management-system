@@ -1,2 +1,2 @@
-# restaurant-management-system
+# RESTAURANT-MANAGEMENT SYSTEM
 c project
